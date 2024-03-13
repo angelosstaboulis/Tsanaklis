@@ -20,7 +20,6 @@ struct WebVideo:UIViewRepresentable{
         if let urlMain = URL(string:urlVideo) {
             webView.load(URLRequest(url: urlMain))
         }
-        
         return webView
     }
 }
