@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D69CA8AE2BA2086E001F2612 /* WebVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69CA8AD2BA2086E001F2612 /* WebVideo.swift */; };
 		D6A2593B2B8A48B200DA47D2 /* TsanaklisApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A2593A2B8A48B200DA47D2 /* TsanaklisApp.swift */; };
 		D6A2593D2B8A48B200DA47D2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A2593C2B8A48B200DA47D2 /* ContentView.swift */; };
 		D6A2593F2B8A48B300DA47D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6A2593E2B8A48B300DA47D2 /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D69CA8AD2BA2086E001F2612 /* WebVideo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebVideo.swift; sourceTree = "<group>"; };
 		D6A259372B8A48B200DA47D2 /* Tsanaklis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tsanaklis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6A2593A2B8A48B200DA47D2 /* TsanaklisApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TsanaklisApp.swift; sourceTree = "<group>"; };
 		D6A2593C2B8A48B200DA47D2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				D6A259702B8AA7F300DA47D2 /* Tsanakleios.swift */,
 				D6A259722B8AAEEC00DA47D2 /* HomeView.swift */,
 				D6A259762B8ABBAC00DA47D2 /* LaunchScreen.storyboard */,
+				D69CA8AD2BA2086E001F2612 /* WebVideo.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				D6A2593D2B8A48B200DA47D2 /* ContentView.swift in Sources */,
 				D6A2593B2B8A48B200DA47D2 /* TsanaklisApp.swift in Sources */,
 				D6A2596C2B8A9CE600DA47D2 /* Publications.swift in Sources */,
+				D69CA8AE2BA2086E001F2612 /* WebVideo.swift in Sources */,
 				D6A259682B8A89A400DA47D2 /* Biography.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
